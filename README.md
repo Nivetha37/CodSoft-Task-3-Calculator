@@ -5,3 +5,4 @@ This is a simple calculator web application created using HTML, CSS, and JavaScr
 Features:
 Basic arithmetic operations: addition, subtraction, multiplication, and division.
 Clear button to reset the calculator.
+
